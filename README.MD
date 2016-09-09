@@ -3,10 +3,11 @@
 
 
 
-![image](https://github.com/gamegrd/imitating/master/screenshot/1.jpg)
+![image](https://github.com/gamegrd/imitating/blob/master/screenshot/1.jpg)
 
 
-![image](https://github.com/gamegrd/imitating/master/screenshot/2.jpg)
+![image](https://github.com/gamegrd/imitating/blob/master/screenshot/2.jpg)
 
 
-![image](https://github.com/gamegrd/imitating/master/screenshot/3.jpg)
+![image](https://github.com/gamegrd/imitating/blob/master/screenshot/3.jpg)
+
